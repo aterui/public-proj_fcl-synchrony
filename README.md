@@ -4,7 +4,7 @@ Code for: Spatial disturbance synchrony alters the association of food chain len
 ## Author
 Akira Terui and Shota Nishijima
 
-## File Description
+## Description
 * "function_FCLtheory.R": R script for describing the main theoretical model
 * "function_FCLtheory_suppl1.R": R script for describing a supplemental model with direct effects of spatial disturbance synchrony on consumer and predator species
 * "function_FCLtheory_suppl2.R": R script for describing a supplemental model with no spatial synchrony
