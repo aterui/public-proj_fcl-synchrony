@@ -1,5 +1,5 @@
 ## FCL-synchrony
-R script for: Spatial disturbance synchrony alters the association of food chain length and ecosystem size
+Code for: Spatial disturbance synchrony alters the association of food chain length and ecosystem size
 
 ## Author
 Akira Terui and Shota Nishijima
